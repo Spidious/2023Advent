@@ -1,0 +1,4 @@
+in.txt
+/venv
+__pycache__
+!challenges/template/in.txt
